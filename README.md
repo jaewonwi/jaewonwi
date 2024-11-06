@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **jaewonwi/jaewonwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+- 헤더: https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 -->
+
+![Jaewon's Github](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Jaewon's%20Github&fontSize=50&fontAlign=50&fontAlignY=40)
