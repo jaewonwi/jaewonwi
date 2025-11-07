@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 - 헤더: https://github.com/kyechan99/capsule-render/blob/master/docs/README_kr.md
 -->
 
-<div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaewonwi&show_icons=true&theme=transparent&hide="/>
+<div align="left">
+  <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=jaewonwi&show_icons=true&theme=transparent&hide="/> -->
 
-  ### 🐣 Jaewon's Github 🐣
+  ## 🐣 Jaewon's Github 🐣
 
- <a href="https://github.com/jaewonwi"></a> <a href="https://solved.ac/jww5555"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jww5555"/></a>
+ <a href="https://github.com/jaewonwi"></a> <a href="https://solved.ac/jww5555"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jww5555"/>
 
 <div align="left">
   
-  <sub>**🎓 경북대학교 지구시스템과학부 천문대기과학전공 & 컴퓨터학부 글로벌SW융합전공**</sub> <sub><sub>(2017.03 ~ 2023.08)</sub></sub> <br />
-  <sub>**🐳 삼성청년SW아카데미(SSAFY) 10기**</sub> <sub><sub>(2023.07 ~ 2024.06)</sub></sub> <br />
+  **🎓 경북대학교 지구시스템과학부 천문대기과학전공 & 컴퓨터학부 글로벌SW융합전공** <sub>(2017.03 ~ 2023.08)</sub> <br />
+  **🐳 삼성청년SW아카데미(SSAFY) 10기** <sub>(2023.07 ~ 2024.06)</sub> <br />
   
   <br />
 </div>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br>
 
 <div algin="center">
-  <img align="right" src="http://mazandi.herokuapp.com/api?handle=jww5555&theme=warm"/>  
+  <!-- <img align="right" src="http://mazandi.herokuapp.com/api?handle=jww5555&theme=warm"/>   -->
 
   ### 🛠 Skills 🛠
   
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
       <br/>
       <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-      <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+      <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
