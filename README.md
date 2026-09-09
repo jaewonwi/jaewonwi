@@ -28,6 +28,7 @@ Here are some ideas to get you started:
   
   **🎓 경북대학교 지구시스템과학부 천문대기과학전공 & 컴퓨터학부 글로벌SW융합전공** <sub>(2017.03 ~ 2023.08)</sub> <br />
   **🐳 삼성청년SW아카데미(SSAFY) 10기** <sub>(2023.07 ~ 2024.06)</sub> <br />
+  **🏬 현대퓨처넷 KOSA MSA FullStack 개발자 양성 교육** <sub>(2026.04 ~ 2026.09)</sub> <br />
   
   <br />
 </div>
